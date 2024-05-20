@@ -15,3 +15,12 @@ public class Main{
         s.close();
     }
 }
+/*
+for (int i = 0; i < num; i++) {
+                    for (int j = 0; j < 2; j++) {
+                        if (s.hasNextInt()) {
+                            int a = s.nextInt();
+                            if (s.hasNextInt()) {
+                                int b = s.nextInt();
+                                System.out.println(a + b);
+*/

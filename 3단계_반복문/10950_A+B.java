@@ -16,11 +16,12 @@ public class Main{
     }
 }
 /*
-for (int i = 0; i < num; i++) {
-                    for (int j = 0; j < 2; j++) {
-                        if (s.hasNextInt()) {
-                            int a = s.nextInt();
-                            if (s.hasNextInt()) {
-                                int b = s.nextInt();
-                                System.out.println(a + b);
+        int a = s.nextInt();
+        int A,B;
+        for(int i =1;i<=a;i++){
+            A=s.nextInt();
+            B=s.nextInt();
+            System.out.println(A+B);
+        }
+
 */
